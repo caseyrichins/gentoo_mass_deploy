@@ -18,7 +18,7 @@ Think of our branches this way:
 
 ## <a name="question"></a> Got a Question or Problem?
 
-Most questions can be answered by reading the [README]((https://github.com/caseyrichins/gentoo_mass_deploy/blob/master/README.md) or CONTRIBUTING md files. If you have a question that is not answered here
+Most questions can be answered by reading the [README](https://github.com/caseyrichins/gentoo_mass_deploy/blob/master/README.md) or CONTRIBUTING md files. If you have a question that is not answered here
 please refer to [Further Info](#info) at the bottom of this document.
 
 ## <a name="issue"></a> Found an Issue?
