@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env python
 #
 #    Name: Gentoo Mass Deploy
 #    Description: A collection of scripts to mass deploy Gentoo installs
